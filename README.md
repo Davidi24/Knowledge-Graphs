@@ -23,13 +23,15 @@ This repository demonstrates the creation and visualization of knowledge graphs 
   - **Taxonomy**: Groups entities into classes and departments (e.g., `Crew WORKS_IN Department`).
   - **Real-world dataset**: Includes actors, crew, movies, and their interconnections.
 
+## The dataset is in this link called credit.csv => https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset 
+![image](https://github.com/user-attachments/assets/ec1f14fd-fa86-4e91-b236-3610af5732cd)
 
 
 
 ## Graph Visualizations
 Below are sample images demonstrating how the graphs look once created in neo4j:
 
-![![alt text](image-1.png)]
+![alt text](image-1.png)
 
 ![alt text](image.png)
 
