@@ -23,7 +23,7 @@ This repository demonstrates the creation and visualization of knowledge graphs 
   - **Taxonomy**: Groups entities into classes and departments (e.g., `Crew WORKS_IN Department`).
   - **Real-world dataset**: Includes actors, crew, movies, and their interconnections.
 
-## The dataset is in this link called credit.csv => https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset 
+## The dataset is in this link called credit.csv, after you dawnload it, put it in the data folder in order for the code to work => https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset 
 ![image](https://github.com/user-attachments/assets/ec1f14fd-fa86-4e91-b236-3610af5732cd)
 
 
