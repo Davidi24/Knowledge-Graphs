@@ -1,0 +1,67 @@
+{
+    "actors": [
+      {"id": "A1", "name": "Keanu Reeves", "birth_year": 1964, "gender": "Male"},
+      {"id": "A2", "name": "Laurence Fishburne", "birth_year": 1961, "gender": "Male"},
+      {"id": "A3", "name": "Anne Hathaway", "birth_year": 1982, "gender": "Female"},
+      {"id": "A4", "name": "Leonardo DiCaprio", "birth_year": 1974, "gender": "Male"},
+      {"id": "A5", "name": "Meryl Streep", "birth_year": 1949, "gender": "Female"}
+    ],
+    "directors": [
+      {"id": "D1", "name": "Christopher Nolan", "birth_year": 1970},
+      {"id": "D2", "name": "James Cameron", "birth_year": 1954},
+      {"id": "D3", "name": "Lana Wachowski", "birth_year": 1965}
+    ],
+    "studios": [
+      {"id": "S1", "name": "Warner Bros"},
+      {"id": "S2", "name": "20th Century Fox"},
+      {"id": "S3", "name": "Paramount Pictures"}
+    ],
+    "genres": [
+      {"id": "G1", "name": "Action"},
+      {"id": "G2", "name": "Drama"},
+      {"id": "G3", "name": "Sci-Fi"}
+    ],
+    "movies": [
+      {
+        "id": "M1",
+        "title": "The Matrix",
+        "release_year": 1999,
+        "rating": 8.7,
+        "actor_ids": ["A1", "A2"],
+        "director_id": "D3",
+        "studio_id": "S1",
+        "genre_ids": ["G1", "G3"]
+      },
+      {
+        "id": "M2",
+        "title": "Inception",
+        "release_year": 2010,
+        "rating": 8.8,
+        "actor_ids": ["A3", "A4"],
+        "director_id": "D1",
+        "studio_id": "S1",
+        "genre_ids": ["G1", "G2"]
+      },
+      {
+        "id": "M3",
+        "title": "Titanic",
+        "release_year": 1997,
+        "rating": 7.8,
+        "actor_ids": ["A4"],
+        "director_id": "D2",
+        "studio_id": "S2",
+        "genre_ids": ["G2"]
+      },
+      {
+        "id": "M4",
+        "title": "The Devil Wears Prada",
+        "release_year": 2006,
+        "rating": 6.9,
+        "actor_ids": ["A3", "A5"],
+        "director_id": "D2",
+        "studio_id": "S3",
+        "genre_ids": ["G2"]
+      }
+    ]
+  }
+  
