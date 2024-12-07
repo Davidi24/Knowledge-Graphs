@@ -8,7 +8,7 @@ This repository demonstrates the creation and visualization of knowledge graphs 
 - **Description**: A Jupyter Notebook that creates a small-scale knowledge graph from JSON data.
 - **Purpose**: Illustrates how data can be structured, added to a graph, and visualized interactively.
 - **Features**:
-  - Uses JSON data to represent relationships between entities.
+  - Uses JSON data to represent some simple data.
   - Shows the steps to insert nodes and relationships.
   - Includes a visualization of the final graph.
 
